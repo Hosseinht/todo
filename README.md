@@ -1,1 +1,3 @@
-# A simple Todo app
+# A simple JavaScript Todo app
+![GitHub Logo](todo.png)
+
